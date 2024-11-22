@@ -1,0 +1,18 @@
+1. On Kali Linux:
+
+sudo apt update
+sudo apt install -y python3-pip xclip
+pip3 install flask
+
+
+2. On macOS:
+
+pip3 install requests pyperclip
+
+
+
+3. Checking IP Address on Kali: 
+
+ip a
+
+note the IP address in the format 192.168.X.X. This will be the <your-kali_IP>.
